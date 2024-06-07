@@ -1,0 +1,57 @@
+ => 
+[[32m#<Article:0x000076b0f29b2228[0m
+  id: [34m[1m1[0m,
+  title: [31m[1m"[0m[31mhello rails[0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mi am on leave[0m[31m[1m"[0m,
+  created_at: Mon, 27 May 2024 07:15:16.274276000 UTC +00:00,
+  updated_at: Mon, 27 May 2024 07:15:16.274276000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x000076b0f395a298[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mefjend[0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mjiejd\n[0m[31m[1m"[0m,
+  created_at: Mon, 27 May 2024 12:00:34.857947000 UTC +00:00,
+  updated_at: Mon, 27 May 2024 12:00:34.857947000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x000076b0f395a158[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31miugiu[0m[31m[1m"[0m,
+  body: [36m[1mnil[0m,
+  created_at: Mon, 27 May 2024 12:07:34.227354000 UTC +00:00,
+  updated_at: Mon, 27 May 2024 12:07:34.227354000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x000076b0f395a018[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31m kji[0m[31m[1m"[0m,
+  body: [36m[1mnil[0m,
+  created_at: Mon, 27 May 2024 12:09:47.478303000 UTC +00:00,
+  updated_at: Mon, 27 May 2024 12:09:47.478303000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x000076b0f3959ed8[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31mhihi[0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31m[1m"[0m,
+  created_at: Mon, 27 May 2024 12:10:28.554419000 UTC +00:00,
+  updated_at: Mon, 27 May 2024 12:10:28.554419000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x000076b0f3959d98[0m
+  id: [34m[1m6[0m,
+  title: [31m[1m"[0m[31mnkmk[0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mjij[0m[31m[1m"[0m,
+  created_at: Mon, 27 May 2024 12:10:39.834697000 UTC +00:00,
+  updated_at: Mon, 27 May 2024 12:10:39.834697000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x000076b0f3959c58[0m
+  id: [34m[1m7[0m,
+  title: [31m[1m"[0m[31mfr5f[0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mfr[0m[31m[1m"[0m,
+  created_at: Mon, 27 May 2024 12:23:28.040117000 UTC +00:00,
+  updated_at: Mon, 27 May 2024 12:23:28.040117000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x000076b0f3959b18[0m
+  id: [34m[1m8[0m,
+  title: [31m[1m"[0m[31mHello [0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mEveryone\n[0m[31m[1m"[0m,
+  created_at: Tue, 28 May 2024 06:18:31.353282000 UTC +00:00,
+  updated_at: Tue, 28 May 2024 06:18:31.353282000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m] 

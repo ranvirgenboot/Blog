@@ -1,0 +1,20 @@
+<p>Created By: <%= @article.user.email %></p>
+<p>Created At: <%= @article.creation_time %></p>
+<h2>Title: <%= @article.title %></h2>
+<h3>Body: <%= @article.body %></h3>
+
+  <%= create_edit_btn(@article)%>
+  <%= create_destroy_btn(@article)%>
+
+<%= link_to "Back to Articles", articles_path %>
+
+<h2>Comments</h2>
+<% if @article.comments.any? %>
+  <%= render @article.comments %>
+<% else %>
+  <p>No Comments Yet</p>
+<% end %>
+
+<h2>Add a comment</h2>
+<%= render 'comments/form' %>
+

@@ -1,0 +1,25 @@
+.navbar {
+    background-color: rgb(159, 80, 161);
+    padding: 25px;
+  }
+  
+  .navbar .navbar-brand {
+    display: inline-block;
+  }
+  
+  .navbar-menu {
+    float: right;
+  }
+  
+  .navbar-menu a {
+    text-decoration: none;
+    margin-left: 20px;
+  }
+  
+  .navbar-menu a:hover {
+    text-decoration: underline;
+  }
+
+  .index-page {
+  text-align: center;
+  }
